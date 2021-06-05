@@ -1,3 +1,4 @@
-telebot
-beautifulsoup
-requests
+pyTelegramBotAPI==3.6.7
+beautifulsoup4==4.8.1
+bs4==0.0.1
+requests==2.25.0
